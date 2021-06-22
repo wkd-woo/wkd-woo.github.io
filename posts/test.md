@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "test"
-excerpt: "A List of Posts"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2
+date: 2021-06-22 21:44:30 -0000
+categories: test1 test2
 comments: false
 ---
 
