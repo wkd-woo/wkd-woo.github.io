@@ -6,7 +6,7 @@ date: 2021-06-24 16:20:30
 categories:
     - Blog
 tags:
-    - [Blog, test, Github]
+    - [Blog]
 comments: false
 ---
 
