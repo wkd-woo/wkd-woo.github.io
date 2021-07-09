@@ -24,9 +24,10 @@ Virtual Machine은 호스트 OS위에 게스트 OS 전체를 가상화하여 사
 
 컨테이너는 이 성능적 단점을 보다 개선한 시스템이다.
 
-![vmAndContainer](/assets/img/vmAndContainer.png)
-*컨테이너와 가상 머신의 차이(https://tech.osci.kr/2020/03/03/91690167/)*
 
+![vmAndContainer](/assets/img/vmAndContainer.png)
+*<center>컨테이너와 가상 머신의 차이(https://tech.osci.kr/2020/03/03/91690167/)</center>* 
+<br>
 
 왼쪽은 가상 머신의 구조이고, 오른쪽은 컨테이너의 구조이다.
  
@@ -39,7 +40,8 @@ Virtual Machine은 호스트 OS위에 게스트 OS 전체를 가상화하여 사
 ---
 
 ![docker-logo](/assets/img/docker-logo.png)
-*docker 로고*
+*<center> docker 로고 </center>*
+<br>
 
 컨테이너를 사용할 때, `도커`를 이용하면 간단한 명령으로 컨테이너 이미지를 만들고 저장소에 저장할 수 있다.
 
@@ -47,10 +49,13 @@ Virtual Machine은 호스트 OS위에 게스트 OS 전체를 가상화하여 사
 
 화물 선박의 컨테이너처럼 **규격화한 컨테이너**를 만든 후 실행하려는 호스트로 옮겨서 그대로 사용하는 시스템이다.
 
+<br>
 
 ![docker](https://docs.docker.com/engine/images/architecture.svg
 )
-*https://docs.docker.com/get-started/overview/*
+<center>*https://docs.docker.com/get-started/overview/*</center>
+
+<br>
 
 컨테이너가 등장하기 전에는 호스트에도 개발 환경에 필요한 설정을 똑같이 해야 했다.
 
@@ -58,8 +63,12 @@ Virtual Machine은 호스트 OS위에 게스트 OS 전체를 가상화하여 사
 
 이런 불편한 점을 `컨테이너`와 `컨테이너 오케스트레이션 시스템`을 함께 사용하면서 해결할 수 있었다.
 
+<br>
+
 > *결과적으로 애플리케이션의 배포 및 관리가 편하고 강력해 진 것이다.*
 
+<br>
+<br>
 
 ---
 
